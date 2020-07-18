@@ -1,22 +1,22 @@
 <h1 align="center">
-	DRAG AND DROP 🚀
+	SIMPLE TABS 🚀
 </h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tmowes/drag-drop-roots?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tmowes/simple-tabs-vanilajs?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tmowes/drag-drop-roots">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tmowes/simple-tabs-vanilajs">
 
   <a href="https://www.linkedin.com/in/julio-cesar-mowes/">
     <img alt="Feito por Julio Cesar Mowes" src="https://img.shields.io/badge/Feito%20por-TMoweS-%23FF6900">
   </a>
 
-  <a href="https://github.com/tmowes/drag-drop-roots/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tmowes/drag-drop-roots">
+  <a href="https://github.com/tmowes/simple-tabs-vanilajs/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tmowes/simple-tabs-vanilajs">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tmowes/drag-drop-roots/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tmowes/drag-drop-roots?style=social">
+   <a href="https://github.com/tmowes/simple-tabs-vanilajs/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/tmowes/simple-tabs-vanilajs?style=social">
   </a>
 </p>
 
